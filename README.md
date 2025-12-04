@@ -48,8 +48,8 @@ Python環境は不要です。（Releases）から最新の `.exe` ファイル�
 ## 🛠️ 対応制御装置 (Supported Controllers)
 
 * **FANUC** (Vertical Lathe / Turning) - G50/G96チェック対応
-* **OSP** (Okuma Mill)
-* **TOSNUC** (Toshiba Machine Mill)
+* **OSP** (Okuma 五面加工機)
+* **TOSNUC** (Toshiba 横中ぐり盤)
 
 製作者紹介
 長崎の町工場で、大型金属加工（5軸・縦旋盤）のNCプログラムを組みながら、品質管理を担っています。
@@ -85,6 +85,7 @@ pip install tkinterdnd2
 # アプリの実行
 
 python nc_checker_ultimate_v5.py
+
 
 
 
