@@ -53,7 +53,7 @@ Python環境は不要です。（Releases）から最新の `.exe` ファイル�
 長崎の町工場で、大型金属加工（5軸・縦旋盤）のNCプログラムを組みながら、品質管理を担っています。
 
 **「現場のドメイン知識 × 生成AI」**
-プログラミングは専門外ですが、バイブコーディングを駆使して、現場独自の業務改善ツールを自作しています。
+プログラミングは専門外ですが、バイブコーディング（Vibe Coding）を駆使して、現場独自の業務改善ツールを自作しています。
 
 - 🏭 **Main Job:** 5-Axis / Vertical Lathe NC Programmer (Mastercam user)
 - 🐍 **Tech Stack:** Python (Tkinter, Pandas), AI Prompt Engineering
@@ -83,6 +83,7 @@ pip install tkinterdnd2
 # アプリの実行
 
 python nc_checker_ultimate_v5.py
+
 
 
 
