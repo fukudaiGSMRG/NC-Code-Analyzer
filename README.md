@@ -14,11 +14,11 @@
 
 ## 🚀 ダウンロード (Download)
 
-Python環境は不要です。以下のリンク（Releases）から最新の `.exe` ファイルをダウンロードしてください。
+Python環境は不要です。（Releases）から最新の `.exe` ファイルをダウンロードしてください。
 
 
 
-1. `NC_Checker_Pro.exe` (または `zip` ファイル) をダウンロード。
+1. NC._Ver5.exe　をダウンロード。
 2. 任意のフォルダに保存。
 3. ダブルクリックで起動します。
 
@@ -66,4 +66,5 @@ cd リポジトリ名
 pip install tkinterdnd2
 
 # アプリの実行
+
 python nc_checker_ultimate_v5.py
