@@ -1,5 +1,7 @@
 # NC Code Analyzer Pro (NCプログラム検証ツール)
 
+<img width="2560" height="1440" alt="使用イメージ" src="https://github.com/user-attachments/assets/a7687099-4f3c-40eb-82bd-e380d0e471a8" />
+
 
 **インストール不要、即起動。**
 完全オフラインで動作する、プロ仕様のNCプログラム（Gコード）解析・検証ツールです。
@@ -68,5 +70,6 @@ pip install tkinterdnd2
 # アプリの実行
 
 python nc_checker_ultimate_v5.py
+
 
 
