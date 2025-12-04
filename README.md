@@ -75,8 +75,7 @@ Python環境は不要です。（Releases）から最新の `.exe` ファイル�
 
 ```bash
 # クローン
-git clone [https://github.com/あなたのユーザー名/リポジトリ名.git](https://github.com/あなたのユーザー名/リポジトリ名.git)
-cd リポジトリ名
+git clone　git clone https://github.com/fukudaiGSMRG/NC-Code-Analyzer.git
 
 # 依存ライブラリのインストール
 pip install tkinterdnd2
@@ -84,6 +83,7 @@ pip install tkinterdnd2
 # アプリの実行
 
 python nc_checker_ultimate_v5.py
+
 
 
 
