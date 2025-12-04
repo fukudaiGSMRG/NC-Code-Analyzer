@@ -49,6 +49,20 @@ Python環境は不要です。（Releases）から最新の `.exe` ファイル�
 * **OSP** (Okuma Mill)
 * **TOSNUC** (Toshiba Machine Mill)
 
+製作者紹介
+長崎の町工場で、大型金属加工（5軸・縦旋盤）のNCプログラムを組みながら、品質管理を担っています。
+
+**「現場のドメイン知識 × 生成AI」**
+プログラミングは専門外ですが、バイブコーディングを駆使して、現場独自の業務改善ツールを自作しています。
+
+- 🏭 **Main Job:** 5-Axis / Vertical Lathe NC Programmer (Mastercam user)
+- 🐍 **Tech Stack:** Python (Tkinter, Pandas), AI Prompt Engineering
+- 🛠️ **Current Project:** NCデータ解析・干渉チェックツールの開発
+
+**📢 Message**
+「中小製造業でも、AIを使えばここまで内製DXできる」を実践中。
+現場のカイゼンや技術について、ぜひ情報交換しましょう！
+
 ## 💻 開発者向け情報 (For Developers)
 
 ソースコードから実行、または自身でビルドを行う場合の手順です。
@@ -70,6 +84,7 @@ pip install tkinterdnd2
 # アプリの実行
 
 python nc_checker_ultimate_v5.py
+
 
 
 
