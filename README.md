@@ -91,11 +91,12 @@ Python環境は不要です。以下より最新の `.exe` ファイルをダウ
 ### セットアップと実行
 
 ```bash
-# クローン
-git clone [https://github.com/fukudaiGSMRG/NC-Code-Analyzer.git](https://github.com/fukudaiGSMRG/NC-Code-Analyzer.git)
+
 
 # 依存ライブラリのインストール
 pip install tkinterdnd2
 
 # アプリの実行
-python nc_checker_ultimate_v5.py
+python nc_checker_ultimate_v5_4.py
+
+
