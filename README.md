@@ -17,7 +17,7 @@
 
 Python環境は不要です。以下より最新の `.exe` ファイルをダウンロードしてご使用ください。
 
-1.  **[最新版 (Ver 5.4) をダウンロード](https://github.com/fukudaiGSMRG/NC-Code-Analyzer/releases/tag/%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B35.4)**
+1.  **[最新版 (Ver 5.5) をダウンロード](https://github.com/fukudaiGSMRG/NC-Code-Analyzer/releases/tag/%EF%BD%965.5.0))**
 2.  任意のフォルダに保存してください。
 3.  `NC_コードアナライザー_Pro_Ver5_4.exe` をダブルクリックで起動します。
 
@@ -98,5 +98,6 @@ pip install tkinterdnd2
 
 # アプリの実行
 python nc_checker_ultimate_v5_4.py
+
 
 
